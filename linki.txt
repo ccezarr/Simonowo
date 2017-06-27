@@ -2,4 +2,5 @@ Git
 https://github.com/ccezarr/Simonowo.git
 
 Arduino
-https://www.arduino.cc/en/Main/Donate 
+https://www.arduino.cc/en/Main/Donate - Arduino IDE
+http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/ - How to program NodeMCU
