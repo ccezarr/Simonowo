@@ -1,2 +1,5 @@
+Git
+https://github.com/ccezarr/Simonowo.git
 
+Arduino
 https://www.arduino.cc/en/Main/Donate 
